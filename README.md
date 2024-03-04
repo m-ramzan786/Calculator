@@ -9,6 +9,8 @@ I created this calculator web app project to practice my skills in HTML, CSS, an
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Project Structure](#project-structure)
 - [Credits](#credits)
 - [License](#license)
 
